@@ -6,6 +6,10 @@ Text-periment is a React based word counter and character counting utility where
 
 In the project directory, you can run:
 
+### `npm install`
+
+Installs the required dependencies needed to run the program.
+
 ### `npm start`
 
 Runs the app in the development mode.\
