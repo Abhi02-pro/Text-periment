@@ -30,7 +30,7 @@ export default function About(props) {
       </div>
       <div className="card my-5" style={{backgroundColor: props.mode === "light" ? "white" : "#01284b", border: props.mode === "light" ? "1px solid #01284b" : "1px solid white"}}>
       <div className="card-header" style={{backgroundColor: props.mode === "light" ? "white" : "#01284b", borderBottom: props.mode === "light" ? "1px solid #01284b" : "1px solid white"}}>
-          <h2>Founder</h2>
+          <h2>Developed By</h2>
         </div>
         <div className="card-body" style={{backgroundColor: props.mode === "light" ? "white" : "#01284b"}}>
           <h5 className="card-text">
